@@ -1,0 +1,3 @@
+# hidegamecenterbanner
+
+pretty self explanatory
