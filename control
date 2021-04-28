@@ -1,0 +1,9 @@
+Package: com.chr1s.hidegamecenterbanner
+Name: HideGameCenterBanner
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hide "signed in as " banner when opening game center compatible games
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
